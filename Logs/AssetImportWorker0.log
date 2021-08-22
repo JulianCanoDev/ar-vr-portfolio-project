@@ -1,83 +1,80 @@
 Using pre-set license
-Desktop is 1366 x 768 @ 60 Hz
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1052; Version 2004; 64bit' Language: 'en' Physical Memory: 8095 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-Unity
+C:\Users\holberton\Documents\UnityProjects\2019.4.12f1\Editor\2020.3.12f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/home/julian/unityprojects/Fractal Dreams
+C:/Users/holberton/Documents/unity_projects/ar-vr-portfolio-project
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-44597
-Successfully changed project path to: /home/julian/unityprojects/Fractal Dreams
-/home/julian/unityprojects/Fractal Dreams
+50631
+Successfully changed project path to: C:/Users/holberton/Documents/unity_projects/ar-vr-portfolio-project
+C:/Users/holberton/Documents/unity_projects/ar-vr-portfolio-project
 Using Asset Import Pipeline V2.
-Unable to load player prefs
-Refreshing native plugins compatible for Editor in 30,23 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
+Refreshing native plugins compatible for Editor in 127.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
-[Subsystems] Discovering subsystems at path /home/julian/unityprojects/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /home/julian/unityprojects/Fractal Dreams/Assets
-GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
-Renderer: Mesa Intel(R) HD Graphics 620 (KBL GT2)
-Vendor:   Intel
-Version:  4.6 (Core Profile) Mesa 21.0.3
-GLES:     0
- GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
-_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
-int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
-L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
-t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_ti
-mer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 1468109296
+[Subsystems] Discovering subsystems at path C:/Users/holberton/Documents/UnityProjects/2019.4.12f1/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/holberton/Documents/unity_projects/ar-vr-portfolio-project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     4047 MB
+    Driver:   21.20.16.4727
 Initialize mono
-Mono path[0] = '/home/julian/unityprojects/2020.3.12f1/Editor/Data/Managed'
-Mono path[1] = '/home/julian/unityprojects/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/home/julian/unityprojects/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56052
+Mono path[0] = 'C:/Users/holberton/Documents/UnityProjects/2019.4.12f1/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/holberton/Documents/UnityProjects/2019.4.12f1/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/holberton/Documents/UnityProjects/2019.4.12f1/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56436
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /home/julian/unityprojects/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/julian/unityprojects/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/julian/unityprojects/2020.3.12f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0,001706 seconds.
+Register platform support module: C:/Users/holberton/Documents/UnityProjects/2019.4.12f1/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/holberton/Documents/UnityProjects/2019.4.12f1/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Users/holberton/Documents/UnityProjects/2019.4.12f1/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.006699 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 30,12 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
+Refreshing native plugins compatible for Editor in 84.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2,245 seconds
+- Completed reload, in  5.376 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0,002920 seconds.
+Registered in 0.008113 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1,137 seconds
+- Completed reload, in  2.063 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0,72 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.30 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58,9 MB.
-System memory in use after: 58,9 MB.
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1819.
-Total: 3,307423 ms (FindLiveObjects: 0,225401 ms CreateObjectMapping: 0,070447 ms MarkObjects: 2,768577 ms  DeleteObjects: 0,241421 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1821.
+Total: 4.898900 ms (FindLiveObjects: 0.338900 ms CreateObjectMapping: 0.139600 ms MarkObjects: 4.285700 ms  DeleteObjects: 0.132000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
@@ -88,25 +85,393 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(1618b053e381d9d35ae45a09578a9550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(1618b053e381d9d35ae45a09578a9550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b1d1b4b42767b28cccc110a0b274bb') in 0,003336 seconds 
-  Import took 0,005933 seconds .
+  path: Assets/LowpolyStreetPack/Meshes/Parking.FBX
+  artifactKey: Guid(ef582edc4ff50194bb39f8e3cddde53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Parking.FBX using Guid(ef582edc4ff50194bb39f8e3cddde53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af78406bdef1730cb2b164e96b99eb8b') in 0.520771 seconds 
+  Import took 0.530998 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000233 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85059f4f9e1a832ed95adaa0d25c5c4c') in 0,012664 seconds 
-  Import took 0,014936 seconds .
+  Time since last request: 0.000775 seconds.
+  path: Assets/LowpolyStreetPack
+  artifactKey: Guid(ed640147d12fa8a449be66e34b33fc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack using Guid(ed640147d12fa8a449be66e34b33fc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d2c09ed261be200377c7a68e47b2d8') in 0.022570 seconds 
+  Import took 0.031212 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 32,303046 seconds.
-  path: Assets/Scenes/Scene_00_Town_00.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Scene_00_Town_00.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c046b1058d6d0572479c68dd31392b') in 0,001991 seconds 
-  Import took 0,007390 seconds .
+  Time since last request: 0.000378 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Park.FBX
+  artifactKey: Guid(63c115d4cb97ebb429c815dffc7a05d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Park.FBX using Guid(63c115d4cb97ebb429c815dffc7a05d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7acb8b2e54363ac038bd4dd0226505') in 0.189604 seconds 
+  Import took 0.195169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Bridges.FBX
+  artifactKey: Guid(743b5a36add64654a83f60be2beee9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Bridges.FBX using Guid(743b5a36add64654a83f60be2beee9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b727e2e2d27ba3ac07afdf1c38acc45') in 0.212170 seconds 
+  Import took 0.218788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/LightShape.FBX
+  artifactKey: Guid(d5ff1f5c1c85a3b4b97e383bb087d486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/LightShape.FBX using Guid(d5ff1f5c1c85a3b4b97e383bb087d486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '537eae471d886836e13870c573646b50') in 0.042849 seconds 
+  Import took 0.048692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Roads.FBX
+  artifactKey: Guid(bca5c93adbc71744ca9ea932c796e900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Roads.FBX using Guid(bca5c93adbc71744ca9ea932c796e900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4345cd9a11378c0c3160604967b3f406') in 0.789355 seconds 
+  Import took 0.795036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs
+  artifactKey: Guid(503cbbe961d09a4469677d59757fc5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs using Guid(503cbbe961d09a4469677d59757fc5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5386de3373ca8040ec6a3a26a695de') in 0.003664 seconds 
+  Import took 0.008259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/RoadMarks.FBX
+  artifactKey: Guid(33c8305a75ab5af45a870e900a34b596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/RoadMarks.FBX using Guid(33c8305a75ab5af45a870e900a34b596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f217d23140c0dd1e8e3409d23af3dd') in 0.257807 seconds 
+  Import took 0.263430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Foliage.FBX
+  artifactKey: Guid(e83dabdd8814e2243a3581266264de31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Foliage.FBX using Guid(e83dabdd8814e2243a3581266264de31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9707309eb809006bf5b4b30cefcd1e6') in 0.251692 seconds 
+  Import took 0.257217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Fences.FBX
+  artifactKey: Guid(4b29ecf28e5fd4b4f86a961aca54fd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Fences.FBX using Guid(4b29ecf28e5fd4b4f86a961aca54fd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c73b5cf21daad5a19de13e44791b9fb') in 0.311849 seconds 
+  Import took 0.316547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/StreetProps.FBX
+  artifactKey: Guid(29b8da6fbd3c2b542bf7bcda4beeab81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/StreetProps.FBX using Guid(29b8da6fbd3c2b542bf7bcda4beeab81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '260f3f57f1c3af8082a02aa3a25978d1') in 0.695491 seconds 
+  Import took 0.700040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/LowpolyStreetPack/Meshes
+  artifactKey: Guid(48fb6d3b248ab4545a5099edf82af805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes using Guid(48fb6d3b248ab4545a5099edf82af805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39188095014491fb3d39ff0654e71525') in 0.007740 seconds 
+  Import took 0.011368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/LampPosts.FBX
+  artifactKey: Guid(5e685afd430110c4e802b1b9891a849f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/LampPosts.FBX using Guid(5e685afd430110c4e802b1b9891a849f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6329c7ebd33f0a202bf44dc9a81f475') in 0.100324 seconds 
+  Import took 0.105465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.108356 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/Foliage
+  artifactKey: Guid(aa6c7606f5fab0444912f68edfc016a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/Foliage using Guid(aa6c7606f5fab0444912f68edfc016a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c07eb92b764209536384ae8387b25e0a') in 0.006835 seconds 
+  Import took 0.011568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.301015 seconds.
+  path: Assets/Meshes
+  artifactKey: Guid(63665f46f39272a47af63c5d9c994dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes using Guid(63665f46f39272a47af63c5d9c994dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc63856931512299f33ad3b7c3bacf12') in 0.007527 seconds 
+  Import took 0.012953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.430744 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials
+  artifactKey: Guid(99dd17792563ab9409aee710aaefe61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials using Guid(99dd17792563ab9409aee710aaefe61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175cd078eed121f6df615857b818ff08') in 0.011627 seconds 
+  Import took 0.017228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048589 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Atlas.mat
+  artifactKey: Guid(38e0f6c0765a5374f9a428840748d450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Atlas.mat using Guid(38e0f6c0765a5374f9a428840748d450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486e85c13b59ef6d2ed5cfbf6332ec81') in 0.337898 seconds 
+  Import took 0.342803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/LightShape.mat
+  artifactKey: Guid(d380add981a51514ab244cdc8488adfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/LightShape.mat using Guid(d380add981a51514ab244cdc8488adfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5365d762ee1f6f9ea05df1580d79c6f1') in 0.097228 seconds 
+  Import took 0.100871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/tree_DIF.mat
+  artifactKey: Guid(66b1313491b494d4398251c31b99d540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/tree_DIF.mat using Guid(66b1313491b494d4398251c31b99d540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d44603a92242d4b340db84e868e0643') in 0.151467 seconds 
+  Import took 0.154840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Signs.mat
+  artifactKey: Guid(3d0ac4bb440627e48aaad2b0af727801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Signs.mat using Guid(3d0ac4bb440627e48aaad2b0af727801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2d57eaa30e9261fde937795d3bb4aa') in 0.235522 seconds 
+  Import took 0.239095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Leaves_02.mat
+  artifactKey: Guid(ef03674ad19dc4f4985cb53df430ba91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Leaves_02.mat using Guid(ef03674ad19dc4f4985cb53df430ba91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '808608ab9868ce5891e6bef99499d678') in 0.032125 seconds 
+  Import took 0.036705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/RoadMarkings.mat
+  artifactKey: Guid(1a8b038a9dbe8264f8adca5057f1acc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/RoadMarkings.mat using Guid(1a8b038a9dbe8264f8adca5057f1acc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c5e794019a2cc20fa88c047befe0679') in 0.053743 seconds 
+  Import took 0.060403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Fence.mat
+  artifactKey: Guid(66b1abe22abb5794c8d330a05b0abf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Fence.mat using Guid(66b1abe22abb5794c8d330a05b0abf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3939c6db07321051a5dfceba9e4c78') in 0.083284 seconds 
+  Import took 0.088325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Grass.mat
+  artifactKey: Guid(700158700e4398340be1a92aa014ec3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Grass.mat using Guid(700158700e4398340be1a92aa014ec3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384d2cdf9ba4a295d1731a09b1ecf420') in 0.022873 seconds 
+  Import took 0.027012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Leaves_V01.mat
+  artifactKey: Guid(5cc1d00d2a111e94fbaa8e91793ebc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Leaves_V01.mat using Guid(5cc1d00d2a111e94fbaa8e91793ebc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '737b8aa3451b5cba26a58a6824ed6ddf') in 0.027744 seconds 
+  Import took 0.032232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Mud.mat
+  artifactKey: Guid(7e703074faa5ed34bbb76b80a9175bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Mud.mat using Guid(7e703074faa5ed34bbb76b80a9175bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa949268a4adfde33b774bd951725edd') in 0.028458 seconds 
+  Import took 0.034073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Materials/Leavas_03.mat
+  artifactKey: Guid(bc03ba30a4c457d47883b5eb0920749c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Materials/Leavas_03.mat using Guid(bc03ba30a4c457d47883b5eb0920749c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c5daaeca2255c63c926f5b9ec0d0d4') in 0.052164 seconds 
+  Import took 0.056057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.084333 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/atlas.tga
+  artifactKey: Guid(a56b08bcd0efc1142ac4b8a9ae1284e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/atlas.tga using Guid(a56b08bcd0efc1142ac4b8a9ae1284e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dc547a1f3ace123d8af4e16cfb89349') in 0.047156 seconds 
+  Import took 0.051309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.445935 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures
+  artifactKey: Guid(590f2223e2db62e4cb2471ce9bcdb40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures using Guid(590f2223e2db62e4cb2471ce9bcdb40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60fe512c4f125eb77bced1403b473fd7') in 0.015207 seconds 
+  Import took 0.021178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045505 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/atlas01.png
+  artifactKey: Guid(f7ae15a5a225f114fba4b2cce460cf37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/atlas01.png using Guid(f7ae15a5a225f114fba4b2cce460cf37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95e4fde50bf58b3e59a62c132d127ea') in 0.037513 seconds 
+  Import took 0.042929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/pavement_02.png
+  artifactKey: Guid(fb36236789444fa4fa68f9409386c9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/pavement_02.png using Guid(fb36236789444fa4fa68f9409386c9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291060d89b516be411a761ed34636be4') in 0.023967 seconds 
+  Import took 0.027609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/Grass_C.tga
+  artifactKey: Guid(23cac4404a733cd4f88a923c763c99aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/Grass_C.tga using Guid(23cac4404a733cd4f88a923c763c99aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ec83585e2ccefd58ff33e36e0b0504') in 0.026531 seconds 
+  Import took 0.030517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/tree_DIF.tga
+  artifactKey: Guid(03d39d19d771ffe49bf733541b7038a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/tree_DIF.tga using Guid(03d39d19d771ffe49bf733541b7038a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '819586bd430dc6195721e0bf4c141124') in 0.030940 seconds 
+  Import took 0.034485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/mud.png
+  artifactKey: Guid(f25d78572808cbb4fbf0a3a24f1c3880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/mud.png using Guid(f25d78572808cbb4fbf0a3a24f1c3880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893f87030dee9a76beaa116001f04d44') in 0.025647 seconds 
+  Import took 0.030721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/RoadMarkings.png
+  artifactKey: Guid(38ceac90f23ec7c40a491bf8f9e4a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/RoadMarkings.png using Guid(38ceac90f23ec7c40a491bf8f9e4a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a04c9b9d6325008af255fe0d0709a2fe') in 0.019901 seconds 
+  Import took 0.025966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/grass.png
+  artifactKey: Guid(3482d24f9e4f70741a9780133bcc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/grass.png using Guid(3482d24f9e4f70741a9780133bcc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '185bc095758e3a4ea16f93835150fe29') in 0.024177 seconds 
+  Import took 0.029094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/pavement_01.png
+  artifactKey: Guid(87de241d18ef21e468a3cb9a12f3aa7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/pavement_01.png using Guid(87de241d18ef21e468a3cb9a12f3aa7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a43e7a7d45455a7b4a244d17ad56bb46') in 0.024723 seconds 
+  Import took 0.028886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/Grass_B.tga
+  artifactKey: Guid(a7f8e40afdb01d44ebab4b4a9921fa6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/Grass_B.tga using Guid(a7f8e40afdb01d44ebab4b4a9921fa6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b52c6b5b9fbb4af63ccfacfbec177e3') in 0.022143 seconds 
+  Import took 0.027287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/LightShape.tga
+  artifactKey: Guid(bc5593ebe2f17c443bc8310e847bb096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/LightShape.tga using Guid(bc5593ebe2f17c443bc8310e847bb096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd212a79847d2e214eefc3b5a6801b880') in 0.018652 seconds 
+  Import took 0.024913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/fence_01.png
+  artifactKey: Guid(d2e282c317ad02943852ebb81818f5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/fence_01.png using Guid(d2e282c317ad02943852ebb81818f5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39cf8e1276a89a30631b34d60f520cef') in 0.025853 seconds 
+  Import took 0.029805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/Grass_A.tga
+  artifactKey: Guid(e8dd2fb6922cf6b4bb858a98837a2f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/Grass_A.tga using Guid(e8dd2fb6922cf6b4bb858a98837a2f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1f2d1ded1e93887fb9cc811a6f65be') in 0.021656 seconds 
+  Import took 0.027042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/LowpolyStreetPack/Meshes/Textures/pavement_03.png
+  artifactKey: Guid(6b2a8429251e42d4c95c89da7e8a87f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Meshes/Textures/pavement_03.png using Guid(6b2a8429251e42d4c95c89da7e8a87f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c4054f7f33bd1762133a7123d1d337e') in 0.023694 seconds 
+  Import took 0.027960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.328569 seconds.
+  path: Assets/Prefabs/Roads
+  artifactKey: Guid(5a4fcd76aa62b6f4596ed737978345e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Roads using Guid(5a4fcd76aa62b6f4596ed737978345e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed6a93a96b8842bd4de5f7a19f8e2ba0') in 0.006216 seconds 
+  Import took 0.012694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.809644 seconds.
+  path: Assets/Prefabs/Foliage/Bushes
+  artifactKey: Guid(098d46c6243e776478c4390fa696d031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Foliage/Bushes using Guid(098d46c6243e776478c4390fa696d031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b0bc6203153248e20524ca5bbbf853') in 0.038940 seconds 
+  Import took 0.043190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041758 seconds.
+  path: Assets/Prefabs/Foliage/Bushes/Bush_A.prefab
+  artifactKey: Guid(40aac346b699b524aac86fc0f66aa311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Foliage/Bushes/Bush_A.prefab using Guid(40aac346b699b524aac86fc0f66aa311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cba7db47304b75c3587f5884a712350') in 0.063174 seconds 
+  Import took 0.069886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/Prefabs/Foliage/Bushes/Bush_D.prefab
+  artifactKey: Guid(13a42c241463e034082f2fbcda640817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Foliage/Bushes/Bush_D.prefab using Guid(13a42c241463e034082f2fbcda640817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83229b3b44c5267312cab07c0421fb00') in 0.060122 seconds 
+  Import took 0.066737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Prefabs/Foliage/Bushes/Bush_E_Leaves03.prefab
+  artifactKey: Guid(dec4450be21d021449756129e0524725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Foliage/Bushes/Bush_E_Leaves03.prefab using Guid(dec4450be21d021449756129e0524725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863da315dc9c58a71017f245604d8829') in 0.051569 seconds 
+  Import took 0.056382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000673 seconds.
+  path: Assets/Prefabs/Foliage/Bushes/Bush_C.prefab
+  artifactKey: Guid(204601f7f986c204c9e27d4285f4c425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Foliage/Bushes/Bush_C.prefab using Guid(204601f7f986c204c9e27d4285f4c425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c152a0538b9b27567a4a5a9bdead9ac1') in 0.057485 seconds 
+  Import took 0.063321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Prefabs/Foliage/Bushes/Bush_B_Leaves03.prefab
+  artifactKey: Guid(bfba41359076cbd43b2ae328dde96de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Foliage/Bushes/Bush_B_Leaves03.prefab using Guid(bfba41359076cbd43b2ae328dde96de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94798d72cbdf8fe00f07e1ba212feeed') in 0.048787 seconds 
+  Import took 0.053854 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
