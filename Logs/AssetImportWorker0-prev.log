@@ -1,82 +1,132 @@
 Using pre-set license
-Desktop is 1366 x 768 @ 60 Hz
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.928; Version 2009; 64bit' Language: 'es' Physical Memory: 8095 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
- COMMAND LINE ARGUMENTS:
-Unity
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/home/julian/unityprojects/ar-vr-portfolio-project
+C:/Users/julia/Documents/UnityProjects/ar-vr-portfolio-project
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-38729
-Successfully changed project path to: /home/julian/unityprojects/ar-vr-portfolio-project
-/home/julian/unityprojects/ar-vr-portfolio-project
+51615
+Successfully changed project path to: C:/Users/julia/Documents/UnityProjects/ar-vr-portfolio-project
+C:/Users/julia/Documents/UnityProjects/ar-vr-portfolio-project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 157,49 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Initialize engine version: 2020.3.12f1 (b3b2c6512326)
-[Subsystems] Discovering subsystems at path /home/julian/unityprojects/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /home/julian/unityprojects/ar-vr-portfolio-project/Assets
-GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
-Renderer: Mesa Intel(R) HD Graphics 620 (KBL GT2)
-Vendor:   Intel
-Version:  4.6 (Core Profile) Mesa 21.0.3
-GLES:     0
- GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
-_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
-int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
-L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
-t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_ti
-mer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1291913728
+Refreshing native plugins compatible for Editor in 84.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/julia/Documents/UnityProjects/ar-vr-portfolio-project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     4047 MB
+    Driver:   27.20.100.8854
 Initialize mono
-Mono path[0] = '/home/julian/unityprojects/2020.3.12f1/Editor/Data/Managed'
-Mono path[1] = '/home/julian/unityprojects/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/home/julian/unityprojects/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56331
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /home/julian/unityprojects/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/julian/unityprojects/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/julian/unityprojects/2020.3.12f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0,097170 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.005983 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 59,24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
+Refreshing native plugins compatible for Editor in 119.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4,139 seconds
+- Completed reload, in  7.357 seconds
+Domain Reload Profiling:
+	ReloadAssembly (7357ms)
+		BeginReloadAssembly (104ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1211ms)
+			LoadAssemblies (104ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (538ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (467ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (120ms)
+				BeforeProcessingInitializeOnLoad (33ms)
+				ProcessInitializeOnLoadAttributes (234ms)
+				ProcessInitializeOnLoadMethodAttributes (64ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0,025555 seconds.
+Registered in 0.010030 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1,15 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2,596 seconds
+- Completed reload, in  3.045 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3046ms)
+		BeginReloadAssembly (334ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (2574ms)
+			LoadAssemblies (191ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (592ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (97ms)
+			SetupLoadedEditorAssemblies (1481ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (1309ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (24ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (23ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0,70 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59,9 MB.
-System memory in use after: 59,9 MB.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.21 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1397 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.0 MB.
+System memory in use after: 66.1 MB.
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1826.
-Total: 4,518986 ms (FindLiveObjects: 0,240313 ms CreateObjectMapping: 0,083811 ms MarkObjects: 3,920392 ms  DeleteObjects: 0,272669 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1830.
+Total: 6.302700 ms (FindLiveObjects: 0.229500 ms CreateObjectMapping: 0.075900 ms MarkObjects: 5.880100 ms  DeleteObjects: 0.115000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
@@ -87,201 +137,17 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Prefabs/Roads/Parks/Elements/Park_Corner_B.prefab
-  artifactKey: Guid(13a50703d36e976459baf23952272a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements/Park_Corner_B.prefab using Guid(13a50703d36e976459baf23952272a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843cbaf71194cf3cfcb1a093006d9302') in 1,096910 seconds 
-  Import took 1,126042 seconds .
+  path: Assets/Scenes/ground.mat
+  artifactKey: Guid(7a6e95717be25074b89fe439b6763310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ground.mat using Guid(7a6e95717be25074b89fe439b6763310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b308fa8346515823a055677bab08ff1') in 1.386782 seconds 
+  Import took 1.395063 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000041 seconds.
-  path: Assets/Prefabs/StreetProps
-  artifactKey: Guid(f4d3f1c7c623c8b4f91bcb11281da7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/StreetProps using Guid(f4d3f1c7c623c8b4f91bcb11281da7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872097d15c13069ecc34069a1cd2f1c2') in 0,001556 seconds 
-  Import took 0,026157 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,002229 seconds.
-  path: Assets/Prefabs/StreetProps/Hidrant
-  artifactKey: Guid(7dd811d948f752549b97d51cee9def3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/StreetProps/Hidrant using Guid(7dd811d948f752549b97d51cee9def3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aade6cf7c5f4bfd3e6d44c4e63288af') in 0,001767 seconds 
-  Import took 0,018934 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000351 seconds.
-  path: Assets/Prefabs/Roads/Parks/Elements
-  artifactKey: Guid(76f7198cc6b96c44d87262dc73d63b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements using Guid(76f7198cc6b96c44d87262dc73d63b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4e9d0325888c479dac655c12715c19b') in 0,001482 seconds 
-  Import took 0,007124 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000135 seconds.
-  path: Assets/Prefabs/Roads/Parks
-  artifactKey: Guid(e407824d415fdcc47a2b5a3b2944418c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks using Guid(e407824d415fdcc47a2b5a3b2944418c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee90ad54cc1cd46a21fa651e07f9998a') in 0,000715 seconds 
-  Import took 0,003897 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000154 seconds.
-  path: Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_Corner_A.prefab
-  artifactKey: Guid(7d4ae5af8165b424bac617f4d0c12a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_Corner_A.prefab using Guid(7d4ae5af8165b424bac617f4d0c12a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a304b7b412c29545791c064a4c74e58') in 0,047382 seconds 
-  Import took 0,177014 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000219 seconds.
-  path: Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_Double.prefab
-  artifactKey: Guid(002df49370ca7814499cb40ed86c61da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_Double.prefab using Guid(002df49370ca7814499cb40ed86c61da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ebe6c9c0be1b9ba5ee48e6ba8f8ca6') in 0,038586 seconds 
-  Import took 0,045311 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000248 seconds.
-  path: Assets/Prefabs/Roads/Parks/Elements/Park_Center.prefab
-  artifactKey: Guid(98e2c5ed8ff2f594289b273879ea957f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements/Park_Center.prefab using Guid(98e2c5ed8ff2f594289b273879ea957f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82477841db716a87ba7dfbb8a40eb404') in 0,011301 seconds 
-  Import took 0,016949 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000417 seconds.
-  path: Assets/Prefabs/Roads/Parks/Elements/Park_Streight.prefab
-  artifactKey: Guid(22351419a83571849ae7f44cca0ff793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements/Park_Streight.prefab using Guid(22351419a83571849ae7f44cca0ff793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577365a822fcdab9cc92103b6c496834') in 0,041004 seconds 
-  Import took 0,048221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,002037 seconds.
-  path: Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_Corner_B.prefab
-  artifactKey: Guid(8a026fa77da54f743a96b801337eb29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_Corner_B.prefab using Guid(8a026fa77da54f743a96b801337eb29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66889541e9bc0dc5e2b4ec125734b088') in 0,044559 seconds 
-  Import took 0,049895 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000187 seconds.
-  path: Assets/Prefabs/Roads/Parking
-  artifactKey: Guid(ec10b5a1da54fbc4d9d23b9eab05fc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parking using Guid(ec10b5a1da54fbc4d9d23b9eab05fc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84456efb2104ed9df0719257d5937b3b') in 0,000957 seconds 
-  Import took 0,005310 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000374 seconds.
-  path: Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_Siple.prefab
-  artifactKey: Guid(02f2992f835e75d4e9a772f9c306afef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_Siple.prefab using Guid(02f2992f835e75d4e9a772f9c306afef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44c0e77c183a5c864605d824045c3f0') in 0,042201 seconds 
-  Import took 0,049861 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,002233 seconds.
-  path: Assets/Prefabs/Roads/Parks/Elements/Park_Corner_A.prefab
-  artifactKey: Guid(efcc4d57558c0594ea8916e9c39bc7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements/Park_Corner_A.prefab using Guid(efcc4d57558c0594ea8916e9c39bc7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8425910d29b8874241308ad8f851622') in 0,040032 seconds 
-  Import took 0,044662 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000165 seconds.
-  path: Assets/Prefabs/StreetProps/Hidrant/Hidrant.prefab
-  artifactKey: Guid(28d375a433cc78c4fa3db00df795f14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/StreetProps/Hidrant/Hidrant.prefab using Guid(28d375a433cc78c4fa3db00df795f14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27ef1eb5fc40003f400ab54bcaea379') in 0,045109 seconds 
-  Import took 0,049705 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000169 seconds.
-  path: Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_End.prefab
-  artifactKey: Guid(438f52309bcadde48abffadc0bb7652c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Parks/Elements/Park_Sidewalk_End.prefab using Guid(438f52309bcadde48abffadc0bb7652c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665c1f0aa0486b2d9a6a7870d478ca9a') in 0,039968 seconds 
-  Import took 0,046047 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11,979712 seconds.
-  path: Assets/Prefabs/StreetProps/LightShape
-  artifactKey: Guid(50bcbea877996cc478d4c6ca1e540a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/StreetProps/LightShape using Guid(50bcbea877996cc478d4c6ca1e540a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2401201388751e9342c355429f2e8d') in 0,001320 seconds 
-  Import took 0,006147 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,058296 seconds.
-  path: Assets/Prefabs/StreetProps/LightShape/LightShape.prefab
-  artifactKey: Guid(29a3662e1f6b9874f8b00773a2e193f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/StreetProps/LightShape/LightShape.prefab using Guid(29a3662e1f6b9874f8b00773a2e193f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0faf2a2edeba9ae802399779fdbc02ac') in 0,152777 seconds 
-  Import took 0,156236 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,010874 seconds.
-  path: Assets/Prefabs/StreetProps/LightShape/LightShape.prefab
-  artifactKey: Guid(29a3662e1f6b9874f8b00773a2e193f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/StreetProps/LightShape/LightShape.prefab using Guid(29a3662e1f6b9874f8b00773a2e193f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0faf2a2edeba9ae802399779fdbc02ac') in 0,016377 seconds 
-  Import took 0,022582 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8,155865 seconds.
-  path: Assets/Prefabs/Roads/Pavement
-  artifactKey: Guid(006da8325ea614543b166471fce5c9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Pavement using Guid(006da8325ea614543b166471fce5c9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '272f906ad47899875aff76df5d994b08') in 0,001512 seconds 
-  Import took 0,006944 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1,652284 seconds.
-  path: Assets/Prefabs/Roads/Pavement/A
-  artifactKey: Guid(60ef377a429983842b18bfd87b37975c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Pavement/A using Guid(60ef377a429983842b18bfd87b37975c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e22c108ee0027436d3bfcb0b661f203') in 0,001214 seconds 
-  Import took 0,006234 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1,356856 seconds.
-  path: Assets/Prefabs/Roads/Pavement/A/Pavement_A_A.prefab
-  artifactKey: Guid(a03d40a2119b00e4ea30a894ecfc5e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Pavement/A/Pavement_A_A.prefab using Guid(a03d40a2119b00e4ea30a894ecfc5e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0397e232614dcdd6d5806a3c4cfa3568') in 0,127037 seconds 
-  Import took 0,132068 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000172 seconds.
-  path: Assets/Prefabs/Roads/Pavement/A/Pavement_A_D.prefab
-  artifactKey: Guid(a3b58d20f44519c4697945a21972390d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Pavement/A/Pavement_A_D.prefab using Guid(a3b58d20f44519c4697945a21972390d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfab16512ff7b14873fa3934804645de') in 0,048823 seconds 
-  Import took 0,054849 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,002698 seconds.
-  path: Assets/Prefabs/Roads/Pavement/A/Pavement_A_C.prefab
-  artifactKey: Guid(03981fb7db4564b4e88901011e37938d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Pavement/A/Pavement_A_C.prefab using Guid(03981fb7db4564b4e88901011e37938d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0886897d78f9ddb8e275277e1f00e6fe') in 0,049299 seconds 
-  Import took 0,059731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,001098 seconds.
-  path: Assets/Prefabs/Roads/Pavement/A/Pavement_A_E.prefab
-  artifactKey: Guid(b0a22759ae5e8ca46a0a67debbb8b0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Pavement/A/Pavement_A_E.prefab using Guid(b0a22759ae5e8ca46a0a67debbb8b0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4389107369b9e7750bb815434a9bd2f6') in 0,061354 seconds 
-  Import took 0,066913 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000252 seconds.
-  path: Assets/Prefabs/Roads/Pavement/A/Pavement_A_B.prefab
-  artifactKey: Guid(93cf1c792a7a62048a63caa5108922d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Roads/Pavement/A/Pavement_A_B.prefab using Guid(93cf1c792a7a62048a63caa5108922d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b63b78059199904f197153393fba73') in 0,049046 seconds 
-  Import took 0,054141 seconds .
+  Time since last request: 0.000322 seconds.
+  path: Assets/Scenes/Scene_00_Town_00.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene_00_Town_00.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529faae46380df462c5f18ac2d5c2a75') in 0.019171 seconds 
+  Import took 0.023554 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
