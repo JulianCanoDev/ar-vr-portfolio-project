@@ -7,6 +7,7 @@ public class Score : MonoBehaviour
 {
     [SerializeField] private Text score_text;
     [SerializeField] private string thrash_type;
+    [SerializeField] private string thrash_type_text;
     private int score = 0;
     
     void OnTriggerEnter(Collider other)
@@ -21,6 +22,6 @@ public class Score : MonoBehaviour
     
     void SetScoreText()
     {
-        score_text.text = $"Score: {score}";
+        score_text.text = $"{thrash_type_text}: {score}";
     }
 }
