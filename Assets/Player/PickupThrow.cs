@@ -16,7 +16,7 @@ public class PickupThrow : MonoBehaviour
     {
         if (picked_object != null)
         {
-            if (Input.GetKey("r"))
+            if (Input.GetKey("r") || Input.GetButtonDown("Fire1"))
             {
                 picked_object.GetComponent<Rigidbody>().useGravity = true;
                 picked_object.GetComponent<Rigidbody>().isKinematic = false;
@@ -31,7 +31,7 @@ public class PickupThrow : MonoBehaviour
         if (other.gameObject.CompareTag("Papers") || other.gameObject.CompareTag("Glasses") ||
             other.gameObject.CompareTag("Organics") || other.gameObject.CompareTag("Plastics"))
         {
-            if (Input.GetKey("e") && picked_object == null)
+            if ((Input.GetKey("e") || Input.GetButtonDown("Fire3")) && picked_object == null)
             {
                 other.GetComponent<Rigidbody>().useGravity = false;
                 other.GetComponent<Rigidbody>().isKinematic = true;

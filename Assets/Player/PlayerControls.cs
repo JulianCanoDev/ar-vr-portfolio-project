@@ -179,6 +179,61 @@ public class @PlayerControls : IInputActionCollection, IDisposable
                     ""isPartOfComposite"": true
                 },
                 {
+                    ""name"": ""Joystck"",
+                    ""id"": ""76a21aad-2be5-4b58-b526-71cb4fd28296"",
+                    ""path"": ""2DVector"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""HorizontalMovement"",
+                    ""isComposite"": true,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": ""up"",
+                    ""id"": ""ef217f9d-e0d2-4302-ab9a-1ad563ef5bd8"",
+                    ""path"": ""<HID::Controller>/stick/up"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""HorizontalMovement"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""down"",
+                    ""id"": ""226d8eba-7021-46ad-badd-cced840b90c5"",
+                    ""path"": ""<HID::Controller>/stick/down"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""HorizontalMovement"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""left"",
+                    ""id"": ""3902a661-423b-4685-ae39-6fdd064bbba1"",
+                    ""path"": ""<HID::Controller>/stick/left"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""HorizontalMovement"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""right"",
+                    ""id"": ""d71ab6fd-7d04-4f73-b83b-d2802a7821ac"",
+                    ""path"": ""<HID::Controller>/stick/right"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""HorizontalMovement"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
                     ""name"": """",
                     ""id"": ""6ea0c6d1-6800-4920-a769-e9593c54b00f"",
                     ""path"": ""<Keyboard>/space"",
@@ -193,6 +248,17 @@ public class @PlayerControls : IInputActionCollection, IDisposable
                     ""name"": """",
                     ""id"": ""84dddc20-f47c-48f2-a084-ec71a8681645"",
                     ""path"": ""<Gamepad>/buttonSouth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Jump"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""560874d9-dae8-4afb-a3f0-bdacb7ee92f9"",
+                    ""path"": ""<HID::Controller>/button2"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -258,7 +324,7 @@ public class @PlayerControls : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""fc07e7a7-3ebb-4773-815c-c90f62fcee46"",
-                    ""path"": ""<Gamepad>/leftStick/x"",
+                    ""path"": ""<HID::Controller>/z"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -280,7 +346,7 @@ public class @PlayerControls : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""4f94798d-252c-47ff-815a-862255a92cf0"",
-                    ""path"": ""<Gamepad>/leftStick/y"",
+                    ""path"": ""<HID::Controller>/rz"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
